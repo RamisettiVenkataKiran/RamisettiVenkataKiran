@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @RamisettiVenkataKiran
 - 👀 I’m interested in ... playing games,listening music etc..........
-- 🌱 I’m currently learning ...B.Tech 2nd Year
+- 🌱 I’m completed my .... B.Tech in 2024
 - 💞️ I’m looking to collaborate on ...Game deign ,coding c,c++,java,python
+- I Am Currently Looking For Jobs
 - 📫 How to reach me ...
 
 <!---
