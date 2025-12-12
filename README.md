@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...Game deign ,coding c,c++,java,python
 - I Am Currently Looking For Jobs
 - 📫 How to reach me ...
-- Ny Nobile no-+91 9182539178
+- Ny Mobile no-+91 9182539178
 
 <!---
 RamisettiVenkataKiran/RamisettiVenkataKiran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
